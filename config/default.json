@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://venkat:12345@linkedin.vsdxu.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretcode"
+}
